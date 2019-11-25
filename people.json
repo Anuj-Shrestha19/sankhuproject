@@ -1,0 +1,33 @@
+{
+  "profiles": [
+    {
+      "firstname": "Swasthani",
+      "lastname": "Mata",
+      "bio":
+        "The month-long Swasthani Brata Katha festival concluded on Friday with the devotees mobbing the river banks considered holy to offer their prayers.The festival was observed from the full moon day of Poush to Magh (mid-January to mid-February).The holy fair attracts thousands of devotees every year at the bank of Salinadi River in Sankhu, on the eastern outskirts of Kathmandu.The story of Swasthani Mahatmya is recited in every home of Hindu Nepali during the holy month dedicated to goddess Swasthani and lord Madhav Narayan.As part of the ritual, men and women observe fast throughout the month for good fortune.Devotees also visit the banks of other holy rivers in the same manner as on the bank of Salinadi River to mark the conclusion of Swasthani Brata.",
+      "tagline": "Month long Swasthani Barta Katha ",
+      "imgSrc": "Swasthani_mata.jpg",
+      "id": "swasthani"
+    },
+
+    {
+      "firstname": "Bajrayogini",
+      "lastname": "Mai",
+      "bio":
+        "Bajrayogini Jatra at Sankhu is celebrated every year in the month of April (Chaitra/Baishak) for eight-long days where the idols of the Gods from the Bajrayogini temple are brought down to the town and carried around the entire town.Priests accompany the idols of the two big idols Mhasukhwamaju (yellow-faced goddess) and Chibadya (the chaitya/stupa shaped idol husband of Mhasukhwamaju) while two small idols of their children Singli (lioness) and Byangli (tigress) are carried in smaller chariots by the children of the community.",
+      "tagline": "Goddess with Golden Face",
+      "imgSrc": "Bajrayogini_maa.jpg",
+      "id": "bajrayogini"
+    },
+
+    {
+      "firstname": "Madhav",
+      "lastname": "Narayan",
+      "bio":
+        "",
+      "tagline": "",
+      "imgSrc": "Madavnarayan.jpg",
+      "id": "madavnarayan"
+    }
+  ]
+}
